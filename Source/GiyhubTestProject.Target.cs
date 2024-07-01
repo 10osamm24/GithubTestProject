@@ -13,3 +13,4 @@ public class GiyhubTestProjectTarget : TargetRules
 		ExtraModuleNames.Add("GiyhubTestProject");
 	}
 }
+https://exclusive-sloop-297.notion.site/UrealEngine-68e59d72ba9945e7bcaae3cf3e89a511?pvs=4
